@@ -1,4 +1,6 @@
-
+body {
+  background-color: coral;
+}
 .myDiv {
   border: 5px outset black;
   background-color: white;    
