@@ -1,9 +1,4 @@
 body {
-  background-color: coral;
+  background-image: url("../images/black.jpg");
 }
 
-.div1 {
-  width: 300px;
-  height: 100px;
-  border: 1px solid blue;
-}
