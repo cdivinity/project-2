@@ -11,6 +11,6 @@ p  {
   font-family: courier;
   font-size: 160%;
 }
-body {
-  background-color: coral;
+p {
+  border: 2px solid red;
 }
