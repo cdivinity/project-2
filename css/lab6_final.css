@@ -1,8 +1,6 @@
-body {
-  background-color: white;
-}
+
 .myDiv {
-  border: 10px outset black;
+  border: 5px outset black;
   background-color: white;    
   text-align: center;
 }
