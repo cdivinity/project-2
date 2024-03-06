@@ -2,7 +2,7 @@ body {
   background-color: black;
 }
 .myDiv {
-  border: 5px outset black;
+  border: 10px outset black;
   background-color: white;    
   text-align: center;
 }
