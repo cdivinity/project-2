@@ -1,6 +1,4 @@
-body {
-  background-color: black;
-}
+
 
 h1 {
   color: blue;
@@ -12,4 +10,7 @@ p  {
   color: white;
   font-family: courier;
   font-size: 160%;
+}
+body {
+  background-color: coral;
 }
