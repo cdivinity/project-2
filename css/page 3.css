@@ -1,6 +1,6 @@
 
 .myDiv {
-  border: 5px outset black;
-  background-color: white;    
+  border: 5px outset red;
+  background-color: blue;    
   text-align: center;
 }
