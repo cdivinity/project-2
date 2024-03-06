@@ -1,4 +1,2 @@
- body {
-  background-image: url("image/2023 logo.png");
-}
+body { background: url(image/black.jpg) repeat 0 0; }
 
