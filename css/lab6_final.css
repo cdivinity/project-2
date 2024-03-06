@@ -2,13 +2,8 @@ body {
   background-color: coral;
 }
 
-#mainbodybox
-{
-margin:auto;
-margin-top:150px;
-width:1500px;
-max-width:100%;  <-- add this
-overflow-x: scroll;  <-- add this
-height:500px;
-background-color:#fff;
+.div1 {
+  width: 300px;
+  height: 100px;
+  border: 1px solid blue;
 }
