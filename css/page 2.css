@@ -1,3 +1,7 @@
+body {
+  background-color: red;
+}
+
 h1 {
   color: blue;
   font-family: verdana;
@@ -5,7 +9,7 @@ h1 {
 
 }
 p  {
-  color: red;
+  color: white;
   font-family: courier;
   font-size: 160%;
 }
