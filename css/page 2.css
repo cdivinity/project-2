@@ -1,7 +1,6 @@
 body {
   background-color: red;
 }
-
 h1 {
   color: blue;
   font-family: verdana;
@@ -12,7 +11,6 @@ p  {
   font-family: courier;
   font-size: 160%;
 }
-
 p {
   border: 2px solid red;
 }
