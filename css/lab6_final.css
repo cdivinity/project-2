@@ -1,26 +1,59 @@
 body  {
-  background-color: grey;
+  background-image: url("../image/black.jpg");
 
 }
 
 ul {
   list-style-type: none;
+  color: white;
 }
 h1 {
+  color: white;
+  font-family: verdana;
+  font-size: 300%;
+
+}
+h2 {
+  color: white;
+  font-family: verdana;
+  font-size: 300%;
+
+}
+h3 {
   color: black;
   font-family: verdana;
   font-size: 300%;
 
 }
-img {
+tr {
+  color: white;
+
+}
+p  {
+  color: white;
+  font-family: courier;
+  font-size: 160%;
+}
+
+#para1 {
+  text-align: center;
+  color: white;
+}
+ .GFG img {
   width: 200px;
   height: 200px;
   border-radius: 50%;
+        }
+		.RAN {
+  border: 8px solid black;
+  background-color: white;
+  color: black;
+
 }
-img[src="image/corn.png"] {
-  border: none;
-  background: transparent;
-  box-shadow: none;
+
+
+#para2 {
+  color: black;
 }
 
 
