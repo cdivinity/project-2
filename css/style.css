@@ -45,11 +45,9 @@ a {
   text-align: center;
   color: white;
 }
-#logo {
-float: right;
-}
-#logo2 {
-float: left;
+.right {
+  float: right;
+  background: cyan;
 }
  .GFG img {
   width: 200px;
