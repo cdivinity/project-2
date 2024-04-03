@@ -45,6 +45,12 @@ a {
   text-align: center;
   color: white;
 }
+#logo {
+float: right;
+}
+#logo2 {
+float: none;
+}
  .GFG img {
   width: 200px;
   height: 200px;
@@ -77,6 +83,7 @@ img {
   height: 200px;
   border-radius: 50%;
 }
+
 
 
 #rcorners2 {
