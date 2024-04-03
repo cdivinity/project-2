@@ -72,6 +72,12 @@ a:hover {
   font-weight: 400;
   font-style: normal;
 }
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
 
 #rcorners2 {
   border-radius: 25px;
